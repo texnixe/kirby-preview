@@ -70,6 +70,6 @@ c::set('preview.template.extension', 'raw');
 
 ## License
 
-Logger is open-sourced software licensed under the MIT license.
+Kirby review is open-sourced software licensed under the MIT license.
 
 Copyright © 2017 Sonja Broda info@texniq.de https://www.texniq.de

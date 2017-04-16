@@ -1,5 +1,5 @@
 {
-  "name": "Kirby Page Preview",
+  "name": "preview",
   "description": "Let's you select a page from a select field and shows a preview of it in an iframe below.",
   "author": "Sonja Broda <sonja@texniq.de>",
   "license": "MIT",

@@ -4,7 +4,7 @@ Let's you choose a page from a select field and shows a preview of it in an ifra
 
 **I'm creating this for my personal use in a project and it is still under development. Feel free to use it at your own risk.**
 
-
+![](preview.png)
 ## Installation
 
 ### Download

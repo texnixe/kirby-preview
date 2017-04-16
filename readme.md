@@ -1,8 +1,9 @@
 ## Kirby Preview field
 
+**I'm creating this for my personal use in a project and it is still under development. Feel free to use at your own risk.**
+
 Let's you choose a page from a select field and shows a preview of it in an iframe below the field to allow users to copy and paste stuff into a field of a new page (for example, if they want to compose a newsletter from existing content). It is possible to define a template extension for dedicated preview templates, e.g. if you want to show the raw contents of the page instead of a heavily formatted page.
 
-**I'm creating this for my personal use in a project and it is still under development. Feel free to use at your own risk.**
 
 ![](preview.png)
 ## Installation

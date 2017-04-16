@@ -1,6 +1,6 @@
 ## Kirby Preview field
 
-Let's you choose a page from a select field and shows a preview of it in an iframe below the field.
+Let's you choose a page from a select field and shows a preview of it in an iframe below the field. It is possible to define a template extension for dedicated preview options, e.g. if you want to show the raw contents of the page instead of a heavily formatted page.
 
 **I'm creating this for my personal use in a project and it is still under development. Feel free to use it at your own risk.**
 
@@ -52,6 +52,17 @@ previewPage:
 ```
 
 Make sure to set the value to `uri` and to only fetch pages, not files.
+
+## Options
+
+### preview.template.extension
+
+You can define a template extension for dedicated preview templates, for example, if you want to remove the navigation or other unneeded stuff from the template. If a file with the given extension does not exist, the plugin falls back to the template without the extension.
+```
+c::set('preview.template.extension', 'raw');
+```
+
+
 
 ## Credits:
 

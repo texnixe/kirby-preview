@@ -96,7 +96,7 @@ class PreviewField extends BaseField {
           $page = panel()->site()->page($data['page']);
 
           // get the format extension for dedicated template
-          $format = c::get('preview.output.format')? '.' . c::get('preview.output.format'): '';
+          $format = c::get('preview.template.extension')? '.' . c::get('preview.template.extension'): '';
 
           $file = kirby()->roots()->templates() . DS . $page->template() . $format . '.php';
 

@@ -6,6 +6,7 @@ Let's you choose a page from a select field and shows a preview of it in an ifra
 
 
 ![](preview.png)
+![](raw-content.png)
 ## Installation
 
 ### Download

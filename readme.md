@@ -68,7 +68,7 @@ c::set('preview.template.extension', 'raw');
 
 ## Credits:
 
-@jenstornell: preview class of the [Kirby Reveal plugin](https://github.com/jenstornell/kirby-reveal)
+[@jenstornell](https://github.com/jenstornell): preview class of the [Kirby Reveal plugin](https://github.com/jenstornell/kirby-reveal)
 
 ## License
 
